@@ -1,10 +1,10 @@
 ## Hi 👋, I'm Arti Gupta, a Full Stack Developer ##
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ikushaldave)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/artikgupta)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ikushaldave/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ikushaldave/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ikushaldave)](https://twitter.com/ikushaldave)
-[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ikushaldave/)](https://medium.com/@ikushaldave)
+[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ikushaldave/)](https://medium.com/@artig9262)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:#)
 &nbsp;
 
